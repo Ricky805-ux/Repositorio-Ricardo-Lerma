@@ -22,3 +22,4 @@ Inicio
         Escribir "No se puede formar un triángulo"
     FinSi
 Fin
+
